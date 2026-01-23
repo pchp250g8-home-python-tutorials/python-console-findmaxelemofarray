@@ -1,1 +1,1 @@
-FindMaxElemOfArray
+FindMaxElemOfArray. Python tutorials. Arrays. Algorithms. Input/Output. Console Application. 
